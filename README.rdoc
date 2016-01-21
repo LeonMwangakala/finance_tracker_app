@@ -1,0 +1,3 @@
+== README
+
+This is a finance tracker app for the complete developer ruby on rails course.
